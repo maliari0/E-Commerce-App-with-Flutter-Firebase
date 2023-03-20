@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "636830472695",
+    "project_id": "ticaret-319dd",
+    "storage_bucket": "ticaret-319dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636830472695:android:cc5e7ce24e6b09750d76f2",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636830472695-socvovflojpuvrvcspd9can8ndah3s1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyO-uo2CoyUa8E1OfvsxYdRT175mv7xtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636830472695-socvovflojpuvrvcspd9can8ndah3s1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "636830472695-e688me86ievss6vd598nls3lvl71v6ga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636830472695:android:deebb9ad78708a970d76f2",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636830472695-socvovflojpuvrvcspd9can8ndah3s1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyO-uo2CoyUa8E1OfvsxYdRT175mv7xtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636830472695-socvovflojpuvrvcspd9can8ndah3s1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "636830472695-e688me86ievss6vd598nls3lvl71v6ga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636830472695:android:cc9bc8d5d0bece440d76f2",
+        "android_client_info": {
+          "package_name": "com.ticaret.ticaret"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636830472695-socvovflojpuvrvcspd9can8ndah3s1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyO-uo2CoyUa8E1OfvsxYdRT175mv7xtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636830472695-socvovflojpuvrvcspd9can8ndah3s1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "636830472695-e688me86ievss6vd598nls3lvl71v6ga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.untitled"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

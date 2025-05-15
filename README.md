@@ -1,5 +1,4 @@
 
-```markdown
 # E-Commerce App with Flutter & Firebase
 
 Bu proje, **Flutter** ve **Firebase** kullanılarak geliştirilmiş bir e-ticaret uygulamasıdır. Kullanıcıların ürünleri görüntüleyebileceği, sepete ekleyebileceği ve sipariş verebileceği bir platform sunar.
